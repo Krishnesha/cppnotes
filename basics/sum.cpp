@@ -8,4 +8,3 @@ int main() {
     cin>>y;
     cout<<"Sum is : "<<x+y;
 }
-      
